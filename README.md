@@ -5,7 +5,8 @@
 
 ## 🖥️ 프로젝트 소개
 산업체에서 네트워크 Flow 데이터셋을 제공받아 실험한 GraphSAGe + DGI, Anomal-E 모델입니다.
-Anoaml-E 코드는 이쪽 참고(<https://github.com/waimorris/Anomal-E>)
+
+<br>Anoaml-E 코드는 이쪽 참고(<https://github.com/waimorris/Anomal-E>)
 
 
 
