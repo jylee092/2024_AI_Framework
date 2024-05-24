@@ -15,6 +15,6 @@ Anoaml-E 코드는 이쪽 참고(<https://github.com/waimorris/Anomal-E>)
 
 
 ## ⚙️ 개발 환경
-* Python 3.11.5
-
+* Jupyter Notebook
+* Python version : 3.11.5
 * IDE : Visual Studio Code 1.89.1
